@@ -1,5 +1,5 @@
 # 💫 About Me:
-BE CSE (Data Science) Student<br>Currently learning Python, SQL & DevOps<br>Passionate about coding and building projects
+BE CSE (Data Science) Student<br>Currently learning Python, Machine learning & SQL<br>Passionate about coding and building projects
 
 
 ## 🌐 Socials:
